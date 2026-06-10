@@ -83,6 +83,6 @@ Fully fictional: a demo website project with a complete lifecycle task
 | Item | Action needed |
 |---|---|
 | LICENSE copyright owner | RESOLVED — set to "Nicolas Torres and contributors" (2026-06-10) |
-| SECURITY contact email | Currently `your-security-contact@example.com` — replace with a real contact at publication |
+| SECURITY contact email | RESOLVED — SECURITY.md now uses `nicolas@veridion.ca` (2026-06-10) |
 | Future public repo name | RESOLVED — `github.com/veridionCA/amnesia-by-veridion` (2026-06-10) |
 | Final manual review | Human end-to-end read of every file immediately before first publish |
