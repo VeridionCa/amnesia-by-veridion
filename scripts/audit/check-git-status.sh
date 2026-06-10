@@ -16,7 +16,11 @@ if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
 fi
 
 echo "-- Branch --"
-git rev-parse --abbrev-ref HEAD
+if git rev-parse --verify HEAD >/dev/null 2>&1; then
+  git rev-parse --abbrev-ref HEAD
+else
+  echo "WARN: repository has no commits yet — skipping branch/commit checks."
+fi
 echo
 echo "-- Working tree (short status) --"
 status_output="$(git status --short)"

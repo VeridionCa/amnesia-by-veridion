@@ -80,7 +80,7 @@ Fully fictional: a demo website project with a complete lifecycle task
 
 | Item | Action needed |
 |---|---|
-| LICENSE copyright owner | Currently "AI Team Memory Core contributors" — set your name/org if desired |
+| LICENSE copyright owner | RESOLVED — set to "Nicolas Torres and contributors" (2026-06-10) |
 | SECURITY contact email | Currently `your-security-contact@example.com` — replace with a real contact at publication |
 | Future public repo name | Decide final repo name/org before extraction (v0.5.0) |
 | Final manual review | Human end-to-end read of every file immediately before first publish |
