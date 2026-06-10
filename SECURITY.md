@@ -2,7 +2,7 @@
 
 ## Scope
 
-AI Team Memory Core is a documentation-and-scripts framework. It runs no
+Amnesia by Veridion is a documentation-and-scripts framework. It runs no
 servers and stores no credentials. The main security risks are:
 
 1. **Accidental publication of private data** in memory files.
@@ -36,5 +36,5 @@ servers and stores no credentials. The main security risks are:
 
 If you find a security issue in this framework (for example, an audit script
 that misses a class of secret, or a launcher that is not actually read-only),
-please open an issue at `https://example.com/your-org/ai-team-memory-core/issues`
+please open an issue at `https://github.com/veridionCA/amnesia-by-veridion/issues`
 or email `your-security-contact@example.com`. Do not include real secrets in reports.

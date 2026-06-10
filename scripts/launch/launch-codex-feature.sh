@@ -9,7 +9,7 @@ TASK_ID="${1:-<none selected>}"
 
 cat <<'BANNER'
 ==============================================================
-  AI TEAM MEMORY CORE — Codex / FEATURE-BUILD mode
+  AMNESIA BY VERIDION — Codex / FEATURE-BUILD mode
 ==============================================================
 SAFETY RULES (feature-build workflow):
   1. Work ONLY within the task contract's allowed paths.

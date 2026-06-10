@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI Team Memory Core coordinates multiple AI coding agents around a shared,
+Amnesia by Veridion coordinates multiple AI coding agents around a shared,
 file-based memory inside a Git repository. The design goal: **any agent can
 crash, time out, or be replaced at any moment, and the next session loses
 nothing**, because all state lives in files.

@@ -7,7 +7,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 cat <<'BANNER'
 ==============================================================
-  AI TEAM MEMORY CORE — Launch Menu (read-only)
+  AMNESIA BY VERIDION — Launch Menu (read-only)
 ==============================================================
   1) Claude — docs-only mode
   2) Claude — feature-build mode

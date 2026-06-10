@@ -1,10 +1,16 @@
 # Changelog
 
-All notable changes to AI Team Memory Core are documented here.
+All notable changes to Amnesia by Veridion are documented here.
 Format follows [Keep a Changelog](https://keepachangelog.com/); versions follow
 [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
+
+### Changed
+- **Project renamed to "Amnesia by Veridion"** ahead of first public release
+  under `github.com/veridionCA/amnesia-by-veridion`. The framework was
+  developed as "AI Team Memory Core" (see 0.1.0 below); positioning is now:
+  *AI agents forget context. Amnesia gives them operational memory.*
 
 ## [0.1.0] - 2026-06-10
 

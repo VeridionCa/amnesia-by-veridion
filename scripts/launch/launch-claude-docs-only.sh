@@ -9,7 +9,7 @@ REPO_ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
 
 cat <<'BANNER'
 ==============================================================
-  AI TEAM MEMORY CORE — Claude Code / DOCS-ONLY mode
+  AMNESIA BY VERIDION — Claude Code / DOCS-ONLY mode
 ==============================================================
 SAFETY RULES (docs-only workflow):
   1. Only docs/, memory/ (not private of others), templates/,

@@ -1,8 +1,10 @@
 # Phase 1 Report — Scaffold Creation
 
 > Recorded: 2026-06-10. Phase 1 built the complete public-safe scaffold of
-> AI Team Memory Core (57 files). This report is the project's own record of
-> what was created and under what safety boundaries.
+> AI Team Memory Core (57 files) — the working name later rebranded to
+> **Amnesia by Veridion**. Historical names in this report are intentional.
+> This report is the project's own record of what was created and under
+> what safety boundaries.
 
 ## What Phase 1 created
 
@@ -82,5 +84,5 @@ Fully fictional: a demo website project with a complete lifecycle task
 |---|---|
 | LICENSE copyright owner | RESOLVED — set to "Nicolas Torres and contributors" (2026-06-10) |
 | SECURITY contact email | Currently `your-security-contact@example.com` — replace with a real contact at publication |
-| Future public repo name | Decide final repo name/org before extraction (v0.5.0) |
+| Future public repo name | RESOLVED — `github.com/veridionCA/amnesia-by-veridion` (2026-06-10) |
 | Final manual review | Human end-to-end read of every file immediately before first publish |

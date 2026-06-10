@@ -4,12 +4,16 @@
 
 ## Current phase
 
-**Phase 1.5 — public-safe scaffold polish.**
+**Phase 2.2 — rebrand to "Amnesia by Veridion", preparing first public release.**
 
 ## Current status
 
-Scaffold created and polished; **pending human review and first commit**.
-Nothing has been published yet.
+Scaffold built, polished, audited, and rebranded. First publication is
+pending at `github.com/veridionCA/amnesia-by-veridion` (repo creation and
+push gated on human approval). Nothing has been published yet.
+
+The framework was developed under the working name "AI Team Memory Core";
+all user-facing naming now reads "Amnesia by Veridion".
 
 ## What exists now
 

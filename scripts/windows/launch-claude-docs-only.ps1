@@ -4,7 +4,7 @@ $ErrorActionPreference = "Stop"
 $RepoRoot = Resolve-Path (Join-Path $PSScriptRoot "..\..")
 
 Write-Host "=============================================================="
-Write-Host "  AI TEAM MEMORY CORE - Claude Code / DOCS-ONLY mode"
+Write-Host "  AMNESIA BY VERIDION - Claude Code / DOCS-ONLY mode"
 Write-Host "=============================================================="
 Write-Host "SAFETY RULES (docs-only workflow):"
 Write-Host "  1. Only docs/, memory/ (not private of others), templates/,"

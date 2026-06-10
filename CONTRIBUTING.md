@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in AI Team Memory Core!
+Thanks for your interest in Amnesia by Veridion!
 
 ## Ground rules
 

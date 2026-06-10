@@ -1,6 +1,6 @@
 # Roadmap
 
-Versioned plan for AI Team Memory Core. Dates are intentionally absent —
+Versioned plan for Amnesia by Veridion. Dates are intentionally absent —
 each version ships when its audit passes, not when a calendar says so.
 
 ## v0.1.0 — Scaffold and docs *(current)*

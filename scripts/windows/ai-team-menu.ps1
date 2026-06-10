@@ -3,7 +3,7 @@
 $ErrorActionPreference = "Stop"
 
 Write-Host "=============================================================="
-Write-Host "  AI TEAM MEMORY CORE - Launch Menu (read-only)"
+Write-Host "  AMNESIA BY VERIDION - Launch Menu (read-only)"
 Write-Host "=============================================================="
 Write-Host "  1) Claude - docs-only mode"
 Write-Host "  2) Codex  - feature-build mode"

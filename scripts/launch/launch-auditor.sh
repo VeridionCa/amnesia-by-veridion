@@ -10,7 +10,7 @@ TASK_ID="${1:-<none selected>}"
 
 cat <<'BANNER'
 ==============================================================
-  AI TEAM MEMORY CORE — AUDITOR mode (cross-review)
+  AMNESIA BY VERIDION — AUDITOR mode (cross-review)
 ==============================================================
 SAFETY RULES (audit workflow):
   1. READ-ONLY over the work under review — never modify it.

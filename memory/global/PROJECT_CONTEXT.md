@@ -6,7 +6,7 @@
 ## What this project is
 
 `your-project` — a fictional demonstration project used to exercise the
-AI Team Memory Core framework. Replace this file's contents with your own
+Amnesia by Veridion framework. Replace this file's contents with your own
 project context when adopting the framework.
 
 ## Facts

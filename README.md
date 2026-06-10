@@ -1,12 +1,11 @@
-# AI Team Memory Core
+# Amnesia by Veridion
 
-**Run a team of AI coding agents that never forgets — using nothing but
-Markdown, Git, and discipline.**
+**AI agents forget context. Amnesia gives them operational memory.**
 
-A generic, public-safe framework for persistent-memory teamwork between
-coding agents such as **Claude Code** and **Codex**: shared file-based
-memory, task contracts, lossless handoffs, self-audits, and human approval
-gates. No databases. No servers. No secrets.
+A Git-native persistent memory framework for Claude Code and Codex teamwork:
+shared file-based memory, task contracts, lossless handoffs, self-audits,
+read-only launchers, audit scripts, and human approval gates.
+No databases. No servers. No secrets — just Markdown, Git, and discipline.
 
 ## Why this exists
 
@@ -17,9 +16,10 @@ building and Codex for reviewing) have it worse: neither can see what the
 other did or why.
 
 The fix doesn't need infrastructure. A Git repository is already a durable,
-diffable, reviewable, model-agnostic store. AI Team Memory Core is the
-missing convention layer on top of it: where memory lives, how work is
-scoped, how agents hand off, and where humans stay in control.
+diffable, reviewable, model-agnostic store. Amnesia is the missing
+convention layer on top of it: where memory lives, how work is scoped, how
+agents hand off, and where humans stay in control. The product is named
+after the problem it eliminates.
 
 ## How it works
 
@@ -81,8 +81,8 @@ checklists, audits, and toy examples. Nothing here targets real systems.
 ## Quick start
 
 ```bash
-git clone https://example.com/your-org/ai-team-memory-core.git
-cd ai-team-memory-core
+git clone https://github.com/veridionCA/amnesia-by-veridion.git
+cd amnesia-by-veridion
 
 # 1. Read the architecture
 less docs/architecture/AI_TEAM_ARCHITECTURE.md
@@ -103,7 +103,7 @@ A worked, fully fictional example lives in `examples/demo-website-project/`.
 ## Folder structure
 
 ```
-ai-team-memory-core/
+amnesia-by-veridion/
 ├── README.md / SECURITY.md / CONTRIBUTING.md / CHANGELOG.md / LICENSE
 ├── docs/
 │   ├── architecture/   # how the system works
@@ -129,8 +129,9 @@ ai-team-memory-core/
 
 ## Project status
 
-**Phase 1.5 — public-safe scaffold polish.** The full framework is built;
-it is pending human review and its first commit. Details and the "not built
+**Phase 2.2 — rebranded, preparing first public release.** The full
+framework is built and audited; first publication is pending at
+`github.com/veridionCA/amnesia-by-veridion`. Details and the "not built
 yet" list: [`docs/PROJECT_STATUS.md`](docs/PROJECT_STATUS.md).
 
 ## Roadmap

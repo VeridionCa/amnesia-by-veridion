@@ -1,7 +1,7 @@
 # Claude Code — Command Guide (for this framework)
 
 Generic reference for using Claude Code as an executor or auditor in
-AI Team Memory Core. Nothing here is specific to any real project.
+Amnesia by Veridion. Nothing here is specific to any real project.
 
 ## Session start
 

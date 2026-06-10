@@ -8,7 +8,7 @@ $ErrorActionPreference = "Stop"
 $RepoRoot = Resolve-Path (Join-Path $PSScriptRoot "..\..")
 
 Write-Host "=============================================================="
-Write-Host "  AI TEAM MEMORY CORE - Codex / FEATURE-BUILD mode"
+Write-Host "  AMNESIA BY VERIDION - Codex / FEATURE-BUILD mode"
 Write-Host "=============================================================="
 Write-Host "SAFETY RULES (feature-build workflow):"
 Write-Host "  1. Work ONLY within the task contract's allowed paths."
