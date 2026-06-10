@@ -28,3 +28,7 @@ Thumbs.db
 *.zip
 *.tar.gz
 *.sql
+
+# Amnesia Session Recorder runtime data (local sessions — never publish)
+.amnesia/sessions/
+.amnesia/current-session
