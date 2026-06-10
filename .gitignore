@@ -1,0 +1,30 @@
+# Local-only private memory — never publish
+memory/private/*
+!memory/private/.gitkeep
+
+# Generated context packs
+context-packs/
+*.context-pack.md
+
+# Secrets and environment files (defense in depth — these should never exist here)
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+credentials*.json
+service_account*.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Logs and archives
+*.log
+*.zip
+*.tar.gz
+*.sql
