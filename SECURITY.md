@@ -37,4 +37,4 @@ servers and stores no credentials. The main security risks are:
 If you find a security issue in this framework (for example, an audit script
 that misses a class of secret, or a launcher that is not actually read-only),
 please open an issue at `https://github.com/veridionCA/amnesia-by-veridion/issues`
-or email `your-security-contact@example.com`. Do not include real secrets in reports.
+or email `nicolas@veridion.ca`. Do not include real secrets in reports.
